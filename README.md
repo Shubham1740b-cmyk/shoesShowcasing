@@ -1,6 +1,6 @@
-# E-Commerce shoesShowcasing Website
+# shoesShowcasing Website
 
-Welcome to the E-Commerce shoesShowcasing Website project! This is a simple website showcasing a collection of shoes available for purchase. The website is built using HTML, CSS, and JavaScript.
+Welcome to the shoesShowcasing Website project! This is a simple website showcasing a collection of shoes available for purchase. The website is built using HTML, CSS, and JavaScript.
 
 ## Screenshots
 
