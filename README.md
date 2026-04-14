@@ -4,7 +4,7 @@ Welcome to the E-Commerce shoesShowcasing Website project! This is a simple webs
 
 ## Screenshots
 
-Here are some screenshots of the different sections of the website:
+Below are some screenshots of the different sections of the website- >
 
 ### 1. Landing Page
 ![Landing Page-1](https://github.com/shubham001official/E-Commerce-Website/assets/109148746/f1f84cc5-c87b-4a4d-b8a0-a873a759ac21)
