@@ -16,7 +16,7 @@ The landing page provides an overview of the website's offerings. It includes a 
 ![Landing Page Hover](https://github.com/shubham001official/E-Commerce-Website/assets/109148746/9f2220c0-50b7-4719-a379-dbbe11463de1)
 
 
-As users interact with the UI, this screenshot captures how the landing page responds to their actions. This might include hover effects, animations, or interactive elements.
+As users interact with the UI( User Interface ) , This screenshot captures how the landing page responds to their actions. This include  " hover effects ",  " animations ", or " interactive elements ".
 
 ### 3. Products Page
 ![Products Page](https://github.com/shubham001official/E-Commerce-Website/assets/109148746/b96b9c23-b531-4bb9-af0e-da615af365fe)
@@ -34,11 +34,12 @@ This section highlights the most popular and trending shoes available on the web
 ![Customer Reviews](https://github.com/shubham001official/E-Commerce-Website/assets/109148746/d99f21a1-39ca-43aa-a2f2-bb4fb5c579b1)
 
 
-In this section, customers can read and leave reviews for the products they've purchased. It provides a space for sharing feedback and building credibility.
+In this section, Customers can read and leave reviews for the products they've purchased. 
+It provides a space for sharing feedback 
 
 
 
-## Technologies Used
+## Technologies I Used 
 
 - HTML
 - CSS
@@ -49,3 +50,8 @@ In this section, customers can read and leave reviews for the products they've p
 If you have any questions or suggestions, feel free to reach out.
 
 Happy shopping! 👟
+
+
+
+
+
